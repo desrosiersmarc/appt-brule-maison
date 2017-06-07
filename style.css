@@ -63,7 +63,9 @@ td {
 }
 
 .first-img {
-  height: 300px;
+  /*height: 300px;*/
+  width: 100%
+  max-height: 300px;
 }
 
 .container-div {
